@@ -1,7 +1,15 @@
+[Find this project on codeberg](https://codeberg.org/sjlongland/dcdcconv-driver-pcb)
+
+As a result of Github's decision to force AI-generated issues with no opt-out,
+I am migrating personal projects of mine to Codeberg.  The project at Github
+will be archived.
+
+----
+
 # PWM MOSFET driver board
 
 This is a LVDS-compatible MOSFET driver board for use with the [DC-DC converter
-board](https://github.com/sjlongland/dcdcconv-controller-pcb).  It can drive
+board](https://codeberg.org/sjlongland/dcdcconv-controller-pcb).  It can drive
 two N-Channel MOSFETs, either mounting the leads through the supplied
 connection points `J3` and `J4` (suitable for TO-220 size MOSFETs) or via short
 connection cables.  Due to parasitic inductance, it is best these be kept as
